@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a6717e7.css",
+    "main.js": "/static/js/main.7a76d2ac.js",
+    "static/media/pngtree-black-minimalist-atmospheric-wooden-background-backgroundwooden-backgroundtree-texture-image_77053.jpg": "/static/media/pngtree-black-minimalist-atmospheric-wooden-background-backgroundwooden-backgroundtree-texture-image_77053.197730792ae2cae285b7.jpg",
+    "index.html": "/index.html",
+    "main.5a6717e7.css.map": "/static/css/main.5a6717e7.css.map",
+    "main.7a76d2ac.js.map": "/static/js/main.7a76d2ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a6717e7.css",
+    "static/js/main.7a76d2ac.js"
+  ]
+}
